@@ -13,4 +13,4 @@ This project includes 2 pakages as follows:
 - Micorphone Test   
 - Pan Zoom Test 
 # Explanation
-The idea is that the these programs are workimg on the principl
+The idea is that the these programs are workimg on the principle
